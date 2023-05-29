@@ -1,0 +1,5 @@
+/**:
+  ros__parameters:
+    frame_rate: 10.0
+    phase: 0.0
+    gpio: 51
