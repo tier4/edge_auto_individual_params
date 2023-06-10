@@ -1,5 +1,6 @@
 /**:
   ros__parameters:
     frame_rate: 10.0
-    phase: 0.0
+    phase: 30.0
     gpio: 51
+    cpu_core_id: 6
