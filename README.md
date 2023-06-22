@@ -1,4 +1,4 @@
-# perception_ecu_individual_params
+# edge_auto_individual_params
 
 A parameter management repository for [tier4/edge-auto](https://github.com/tier4/edge-auto) and [tier4/edge-auto-jetson](https://github.com/tier4/edge-auto-jetson).
 
