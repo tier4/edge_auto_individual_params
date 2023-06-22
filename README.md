@@ -1,6 +1,7 @@
 # perception_ecu_individual_params
 
-A parameter management repository for [tier4/perception_ecu_container](https://github.com/tier4/perception_ecu_container).
+A parameter management repository for [tier4/edge-auto](https://github.com/tier4/edge-auto) and [tier4/edge-auto-jetson](https://github.com/tier4/edge-auto-jetson).
+
 
 ## Directory Structure
 
@@ -8,7 +9,7 @@ A parameter management repository for [tier4/perception_ecu_container](https://g
 individual_params/
 ├── config
 │   └── <vehicle-id>    ## "default" is the default name
-│       └── <camera-id> ## camera0~7
+│       └── <camera-id> ## camera number
 │           ├── camera_info.yaml
 │           ├── trigger.param.yaml
 │           └── v4l2_camera.param.yaml
