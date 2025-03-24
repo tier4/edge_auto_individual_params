@@ -1,0 +1,8 @@
+lidar:
+  camera1/camera_link:
+    x: -0.097451
+    y: 0.005215
+    z: 0.003329
+    roll: 0.017813
+    pitch: -0.003
+    yaw: -2.00549
